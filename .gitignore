@@ -4,3 +4,4 @@ out
 coverage
 test/**/dist
 test/**/actual.js
+.npmrc
