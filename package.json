@@ -1,6 +1,6 @@
 {
   "name": "@theblockcrypto/node-file-trace",
-  "version": "0.18.2",
+  "version": "0.18.3",
   "repository": "vercel/nft",
   "license": "MIT",
   "main": "./out/index.js",
